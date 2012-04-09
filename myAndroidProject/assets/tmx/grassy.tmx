@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map SYSTEM "http://mapeditor.org/dtd/1.0/map.dtd">
+<map version="1.0" orientation="orthogonal" width="10" height="15" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" name="grassy" tilewidth="32" tileheight="32">
+  <image source="gfx/grassy.png"/>
+ </tileset>
+ <layer name="grassy" width="10" height="15">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAACw3DBzcWAAAAwI+MrMhKQraSrEJGiTIzEzJSpEQZlZCiIjtU5Pd2994FBQKBYM8ZYqhhhnveCCONMtoYLxhrnBeNN8FEk0z2kileNtUrppluhlfNNMtsc8w1z3wLvOZ1C71hkTcttsRSyyz3lretsNIq71htjbXWedd71nvfBht94EObbLbFVtts95Eddtpltz32+tg+n9jvgIM+dchhRxz1mWM+94XjTvjSSV/52infOO2Mb33nrHPOu+B7P/jRRT+55LIrfnbVL351zXW/+d0fbrjpT7fcdsdd99z3wF8eeuSxv/3jX0889Z9n/gdIPZcYWAIAAA==
+  </data>
+ </layer>
+</map>
